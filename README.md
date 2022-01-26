@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Orgil
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning REACT.js
+- 💞️ I’m looking to collaborate on fun projects
