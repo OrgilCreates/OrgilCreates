@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Orgil
-- 👀 I’m the founder of OctoLearn
+- 👀 I’m the co-founder of OctoLearn
 - 🌱 I’m currently building an app for OctoLearn
